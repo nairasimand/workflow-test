@@ -1,0 +1,10 @@
+ Volume in drive C is WIN 8.1
+ Volume Serial Number is 3A0E-E82D
+
+ Directory of C:\Users\Arian Simandjuntak\Desktop\TestingTest
+
+02/01/2020  10:24 PM    <DIR>          .
+02/01/2020  10:24 PM    <DIR>          ..
+02/01/2020  10:24 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   1,534,873,600 bytes free
